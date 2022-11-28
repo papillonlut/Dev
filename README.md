@@ -1,2 +1,2 @@
-# bot
+# Bot
 Documentation / WIKI / etc...
