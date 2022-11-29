@@ -4,4 +4,4 @@
 
 # Bot Raid
 ## Version non disponible: Bêta 1.0 Not Published
-[WIKI Raid]()
+[Wiki](https://github.com/papillonlut/bot/wiki)
