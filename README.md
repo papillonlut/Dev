@@ -1,7 +1,6 @@
-# Bot Basique
-## Version non disponible: Bêta 1.0 Not Published
-[Wiki](https://github.com/papillonlut/bot/wiki)
+# Le site
+## Indisponible
 
-# Bot Raid
+# Bot Basique
 ## Version non disponible: Bêta 1.0 Not Published
 [Wiki](https://github.com/papillonlut/bot/wiki)
