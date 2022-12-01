@@ -6,3 +6,5 @@
 * [Wiki](https://github.com/papillonlut/bot/wiki)
 ***
 # Template Discord
+* Regarder les vidéos
+* [Wiki](https://github.com/papillonlut/bot/wiki)
